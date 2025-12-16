@@ -1,15 +1,10 @@
-## Hi there, I'm Mukti 👋
+#### Hi, I'm Mukti 👋
 
-I'm a software engineer who is interested in code optimization and creating libraries optimized for specific purposes, with a main focus on Go programming language.
+I’m a software engineer who loves thinking philosophically when building systems—questioning assumptions, exploring trade-offs and designing with purpose—specializing in Go.
 
-## More about me
+In life, I enjoy long-distance cycling, weekend hikes, and tinkering with embedded systems for DIY electronics.
 
-<p>
-    <a href="https://www.linkedin.com/in/muktihari" target="_blank" >
-        <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>   
-<p>
+#### 📮 Reach Me 
 
-## Stats
-
-![Mukti's GitHub stats](https://github-readme-stats.vercel.app/api?username=muktihari&hide=issues&card_width=400&layout=compact&theme=dark) &nbsp; ![Mukti's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muktihari&layout=compact&theme=dark)
+<a href="https://www.linkedin.com/in/muktihari" target="_blank" ><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230e76a8?&style=for-the-badge"/></a>
+<a href="mailto:muktihaz@gmail.com" target="_blank" ><img alt="LinkedIn" src="https://img.shields.io/badge/email-gray?logo=gmail&style=for-the-badge"/></a>
